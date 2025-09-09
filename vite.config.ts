@@ -7,9 +7,6 @@ export default defineConfig({
   base: '/scribr/',
   build: {
     outDir: 'dist',
-    assetsDir: 'assets',
-    sourcemap: false,
-    minify: 'terser',
   },
   server: {
     port: 3000,
