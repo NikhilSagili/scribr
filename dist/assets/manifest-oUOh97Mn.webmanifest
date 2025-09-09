@@ -1,0 +1,20 @@
+{
+  "name": "Scribr - The recurring economy, simplified",
+  "short_name": "Scribr",
+  "description": "Scribr lets merchants launch subscription plans with UPI AutoPay and gives customers a single place to discover, subscribe, pause, or cancel—effortlessly.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "finance", "productivity"],
+  "lang": "en-IN"
+}
